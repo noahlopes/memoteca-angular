@@ -1,8 +1,16 @@
 # Memoteca
 
-Fiz este projeto em um curso de Angular na Alura.
+Projeto feito em um curso de Angular na Alura.
 
-**Link do projeto:** https://memoteca-opal.vercel.app/listarPensamento
+[Link do projeto](https://memoteca-opal.vercel.app/listarPensamento)
+
+### Tecnologias utilizadas
+
+- Angular
+- HTML
+- CSS
+- Typescript
+
 
 ------------------------------------------------
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
